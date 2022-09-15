@@ -1,0 +1,15 @@
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\bin\Debug\net6.0\Example001_HeloWorld.exe
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\bin\Debug\net6.0\Example001_HeloWorld.deps.json
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\bin\Debug\net6.0\Example001_HeloWorld.runtimeconfig.json
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\bin\Debug\net6.0\Example001_HeloWorld.dll
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\bin\Debug\net6.0\Example001_HeloWorld.pdb
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\obj\Debug\net6.0\Example001_HeloWorld.csproj.AssemblyReference.cache
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\obj\Debug\net6.0\Example001_HeloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\obj\Debug\net6.0\Example001_HeloWorld.AssemblyInfoInputs.cache
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\obj\Debug\net6.0\Example001_HeloWorld.AssemblyInfo.cs
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\obj\Debug\net6.0\Example001_HeloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\obj\Debug\net6.0\Example001_HeloWorld.dll
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\obj\Debug\net6.0\refint\Example001_HeloWorld.dll
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\obj\Debug\net6.0\Example001_HeloWorld.pdb
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\obj\Debug\net6.0\Example001_HeloWorld.genruntimeconfig.cache
+C:\Users\Gorda\OneDrive\Рабочий стол\Education\Examples\Example001_HeloWorld\obj\Debug\net6.0\ref\Example001_HeloWorld.dll
